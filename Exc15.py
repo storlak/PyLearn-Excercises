@@ -6,6 +6,6 @@ if high_income and good_credit:
 else:
     print("Not eligible for loan.")
 
-# and ile her iki koşul TRUE olmalı
-# or ile bir koşul TRUE olmalı
+# and both conditions to be TRUE
+# or One Condition TRUE
 # NOT: reverses the boolean value!

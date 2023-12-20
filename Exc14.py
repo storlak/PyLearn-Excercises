@@ -1,4 +1,4 @@
-# bu benim yazdığım. aşağıda chatgptnin yazdığı var
+# This is my code
 good_credit = True
 house = 1000_000
 
@@ -8,7 +8,7 @@ else:
     down_payement = int(house * 0.2)
 print(f"Down Payment is ${down_payement}")
 
-# bunu chatgpt yazdı. ternary operator!
+# This is by ChatGPT
 good_credit = True
 house = 1000000
 
