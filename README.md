@@ -1,4 +1,8 @@
-# Excercises
-Python Exercises consists of lessons and exercises about Python.
-Lessons and exercises via youtube videos by [Mosh Hamedani](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=10945s) and many other youtube channels. 
-Most of the code practiced here are depending on Mosh Hamedani exercises and tutorials but there are also tutorials of [W3 Schools](https://www.w3schools.com/).
+# Python Excercises
+Python Exercises Repo consists of lessons and exercises while learning Python.
+Lessons and exercises via youtube videos and many websites listed as below. 
+
+1. Youtube channel by [Mosh Hamedani](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=10945s)  
+2. [W3 Schools](https://www.w3schools.com/).
+3. Udemy Python exercises by [Pavel Krakowiak](https://www.udemy.com/share/106L4i3@z-Wf1QRsiCEDBPLf2tKo8M_8QQYSytKkQd72_akDmfMIavHOvXK2SHfPUlFbPotQow==/)
+4. Udemy [Python 3: Fundementals course exercises](https://www.udemy.com/share/107N2C3@JA5o71fnAXabjJlOA1tl7nvSyzp-g0goXzkCuyHE0miDja_kYOXZoyf3QvxHgAHGjQ==/) by Fred Baptise
