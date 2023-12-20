@@ -7,7 +7,7 @@ while True:
         current_year = datetime.now().year
         age = current_year - birth_year
 
-        if birth_year <= 0 or birth_year < 1910 or birth_year >= current_year:
+        if not 1910 < birth_year < current_year:
             print("Enter a valid birth year.")
         else:
             print(f"You're {age} years old.")
