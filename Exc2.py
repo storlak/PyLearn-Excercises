@@ -1,3 +1,5 @@
+#Exc by Mosh: Converting lbs and kg.
+
 weight = int(input("Enter your weight : "))
 unit = input("(L)bs or (K)gs? ")
 

@@ -1,3 +1,4 @@
+# using try-except
 try:
     age = int(input("Your age: "))
     income = 20000
