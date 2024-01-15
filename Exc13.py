@@ -1,3 +1,4 @@
+# if else statement: check the weather
 is_hot = False
 is_cold = True
 

@@ -1,3 +1,4 @@
+# replace ascii with Turkish chars
 def replace_ascii_with_turkish(text):
     replacements = {
         "i": "ı",

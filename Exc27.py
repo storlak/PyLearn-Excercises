@@ -1,3 +1,4 @@
+# converting Celcius and Fahrenheit
 temp = float(input("Enter the temperature: "))
 unit = input("Celcius(C) or Fahrenheit(F):").upper()
 

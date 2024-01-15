@@ -1,3 +1,4 @@
+# check if income is sufficient for buying a house. use if else statement
 # This is my code
 good_credit = True
 house = 1000_000

@@ -1,3 +1,4 @@
+# checking age for a credit card request
 age = int(input("Enter your age: "))
 eligible = "Eligible for a credit card."
 not_eligible = "You do not meet the requirements."
