@@ -1,51 +1,51 @@
-sorular = (
+questions = (
     "1. Güneş sistemindeki en büyük gezegen hangisidir?:",
     "2. Hangi gök cismi dünyaya daha yakındır?:",
     "3. Güneş sistemimizin merkezindeki yıldızın adı nedir?:",
     "4. Hangi gezegen 'kızıl gezegen' olarak bilinir?:",
     "5. Dünyanın doğal uydusunun adı nedir?:",
 )
-cevaplar = ("B", "D", "C", "C", "B")
-seçenekler = (
+options = (
     ("A. Dünya", "B. Jüpiter", "C. Mars", "D. Venüs"),
     ("A. Mars", "B. Venüs", "C. Jüpiter", "D. Ay"),
     ("A. Ay", "B. Venüs", "C. Güneş", "D. Mars"),
     ("A. Jüpiter", "B. Satürn", "C. Mars", "D. Neptün"),
     ("A. Mars", "B. Ay", "C. Satürn", "D. Merkür"),
 )
-tahminler = []
-puan = 0
-soru_no = 0
+answers = ("B", "D", "C", "C", "B")
+guesses = []
+score = 0
+question_num = 0
 
-for soru in sorular:
+for question in questions:
     print("----------------------")
-    print(soru)
-    for seçenek in seçenekler[soru_no]:
-        print(seçenekler)
+    print(question)
+    for option in options[question_num]:
+        print(option)
 
-    tahmin = input("Şık seçin (A, B, C, D): ").upper()
-    tahminler.append(tahmin)
-    if tahmin == cevaplar[soru_no]:
-        puan += 1
-        print("Doğru Cevap!")
+    guess = input("Şık seçin (A, B, C, D): ").upper()
+    guesses.append(guess)
+    if guess == answers[question_num]:
+        score += 1
+        print("DOĞRU!")
     else:
-        print("Hatalı Yanıt!")
-        print(f"{cevaplar[soru_no]} doğru yanıt olacak.")
-    soru_no += 1
+        print("YANLIŞ!")
+        print(f"{answers[question_num]} doğru cevap olacak!")
+    question_num += 1
 
 print("----------------------")
-print("       SONUÇ        ")
+print("       SONUÇLAR        ")
 print("----------------------")
 
-print("cevaplar: ", end="")
-for Cevap in cevaplar:
-    print(Cevap, end=" ")
+print("answers: ", end="")
+for answer in answers:
+    print(answer, end=" ")
 print()
 
-print("tahm'nler: ", end="")
-for tahmin in tahminler:
-    print(tahmin, end=" ")
+print("guesses: ", end="")
+for guess in guesses:
+    print(guess, end=" ")
 print()
 
-puan = int(puan / len(cevaplar) * 100)
-print(f"Toplam puanın: {puan}%")
+score = int(score / len(questions) * 100)
+print(f"Toplam puanın: {score}%")
