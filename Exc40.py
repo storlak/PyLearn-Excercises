@@ -7,6 +7,8 @@ high = 100
 guesses = 0
 number = random.randint(low, high)
 
+print("----Guess the Correct Number----")
+print()
 while True:
     guess = int(input(f"Enter a number between {low} - {high}: "))
 
