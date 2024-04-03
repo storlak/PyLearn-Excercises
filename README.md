@@ -3,6 +3,8 @@ Python Exercises Repo consists of lessons and exercises while learning Python.
 Lessons and exercises via youtube videos and many websites listed as below. 
 Especially Corey Schafer & Dr. Fred Baptiste YouTube videos are an awesome resource. 
 
+
+
 # Resources
 1. Youtube channel by [Mosh Hamedani](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=10945s).  
 2. [W3 Schools](https://www.w3schools.com/).
