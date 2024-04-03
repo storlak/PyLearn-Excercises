@@ -1,4 +1,4 @@
-# Concession stand
+# Concession stand with while loop
 
 menu = {
     "pizza": 3.00,

@@ -1,3 +1,4 @@
+# question and answers with multiple choice
 questions = (
     "1. What is the largest planet in our solar system?:",
     "2. Which celestial body is closest to the Earth?",

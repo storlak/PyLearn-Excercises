@@ -1,3 +1,5 @@
+# slicing a string
+
 course = "Python for beginners"
 another = course[:]
 mokoko = "Today the weather is nice."
@@ -9,7 +11,4 @@ print(another)
 print(len(course))
 print(mokoko.find("T"))
 print(mokoko.find("weather"))
-print(
-    mokoko.replace("nice", "bad")
-)  
-
+print(mokoko.replace("nice", "bad"))

@@ -1,3 +1,10 @@
+"""A function that performs division operation on two input parameters and handles exceptions for ZeroDivisionError and NameError.
+Parameters:
+- a: an integer, the numerator
+- b: an integer, the denominator
+"""
+
+
 def division(a, b):
     try:
         result = int(a / b)

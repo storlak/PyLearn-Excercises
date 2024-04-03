@@ -1,3 +1,5 @@
+# for loops
+
 for family in ["Ali", "Veli", "Ayşe", "Fatih"]:
     print(family)
 for item in range(1, 4):

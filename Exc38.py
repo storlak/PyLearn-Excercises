@@ -1,3 +1,4 @@
+# finding even numbers in the list
 data = list(range(1, 10))
 
 

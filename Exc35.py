@@ -1,3 +1,4 @@
+# while True loop
 foods = []
 prices = []
 total = 0

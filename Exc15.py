@@ -1,3 +1,5 @@
+# True & False values
+
 high_income = True
 good_credit = False
 

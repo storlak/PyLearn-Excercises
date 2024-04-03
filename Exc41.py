@@ -1,4 +1,4 @@
-# encryption programme
+# encryption programme with key
 
 import random
 import string

@@ -1,3 +1,5 @@
+# make write a phone number in words
+
 phone = input("Phone: ")
 
 output = ""

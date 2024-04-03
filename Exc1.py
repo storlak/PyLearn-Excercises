@@ -1,3 +1,5 @@
+# 3 different solutions: me, chatGPT, google gemini
+
 # by me
 name = "Zoltan"
 
@@ -17,8 +19,10 @@ if 3 <= length <= 50:
 else:
     print("Name must have between 3 and 50 characters.")
 
-# by Google Bard
+# by Google gemini
 name = "Serdar"
-print("Name looks good.") if 3 <= len(name) <= 50 else print(
-    "Name must have min 3 and max 50 chars"
+(
+    print("Name looks good.")
+    if 3 <= len(name) <= 50
+    else print("Name must have min 3 and max 50 chars")
 )

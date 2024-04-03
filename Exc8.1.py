@@ -1,4 +1,8 @@
 def perform_operation(x, y):
+    """
+    Perform a mathematical operation using the parameters x and y.
+    The function handles ZeroDivisionError and ValueError exceptions.
+    """
     try:
         result = x / y
         value = int(input("Enter a number: "))

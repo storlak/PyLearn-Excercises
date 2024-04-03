@@ -2,7 +2,7 @@ a = 5
 b = 10
 print(a, b)
 
-# shorter and better
+# shorter and better way
 c, d = 5, 10
 print(c, d)
 

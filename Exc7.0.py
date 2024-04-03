@@ -1,3 +1,5 @@
+# make write a phone number in words
+
 phone = input("Phone: ")
 phone_numbers = {
     "0": "zero",
@@ -17,4 +19,3 @@ output = ""
 for chr in phone:
     output += phone_numbers.get(chr, "!") + " "
 print(output)
-
