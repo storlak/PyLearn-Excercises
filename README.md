@@ -15,4 +15,3 @@ Especially Corey Schafer & Dr. Fred Baptiste YouTube videos are an awesome resou
 4. Udemy [Python 3: Fundementals course exercises](https://www.udemy.com/share/107N2C3@JA5o71fnAXabjJlOA1tl7nvSyzp-g0goXzkCuyHE0miDja_kYOXZoyf3QvxHgAHGjQ==/) by Fred Baptiste.
 5. [Corey Schafer](https://www.youtube.com/@coreyms).
 6. [Bro Code](https://www.youtube.com/watch?v=6VElWbND-zg&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&pp=iAQB) by Bro Code.
-7. Udemy Python Exercises by [Pavel Krakowiak](https://www.udemy.com/course/python-programming-modules-packages/?couponCode=KEEPLEARNING).
