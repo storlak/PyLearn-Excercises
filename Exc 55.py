@@ -8,6 +8,8 @@ print("This costs", price, "TL.")
 """$ 34.99 - product price (float)
 20 lbs - product weight (int)
 Using the f-string formatting style print to the console the following message:
+# output: Price: $34.99. Weight: 20 lbs.
+
 """
 product_price = 34.99
 product_weight = 20
